@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "jpatests",
+                "projectName": "jpatests",
+                "workingDirectory": "c:\\Users\\Douglas\\Downloads\\jpatests",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "jpatests",
+                "projectName": "jpatests",
+                "workingDirectory": "c:\\Users\\Douglas\\Downloads\\jpatests",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
